@@ -1,0 +1,1527 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spheremkt.mx/victormederos" resolutions="1x" timestamp="1783035413629">
+  <folder name="css">
+    <file name="site_global.css" crc="4086811419"/>
+    <file name="master_master.css" crc="4172936198" ref="victor_mederos:conciertos:espectaculos:videos:galeria:contactame:index:inicio-no"/>
+    <file name="nomq_preview_master_master.css" crc="3867439429" ref="victor_mederos:conciertos:espectaculos:videos:galeria:contactame:index:inicio-no"/>
+    <file name="victor_mederos.css" crc="4039307514" ref="victor_mederos"/>
+    <file name="nomq_victor_mederos.css" crc="532330120" ref="victor_mederos"/>
+    <file name="conciertos.css" crc="73824" ref="conciertos"/>
+    <file name="nomq_conciertos.css" crc="24961195" ref="conciertos"/>
+    <file name="espectaculos.css" crc="3980481243" ref="espectaculos"/>
+    <file name="nomq_espectaculos.css" crc="167602514" ref="espectaculos"/>
+    <file name="videos.css" crc="171220621" ref="videos"/>
+    <file name="nomq_videos.css" crc="35555223" ref="videos"/>
+    <file name="galeria.css" crc="159439357" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="101056233" ref="galeria"/>
+    <file name="contactame.css" crc="3773953383" ref="contactame"/>
+    <file name="nomq_contactame.css" crc="3878746638" ref="contactame"/>
+    <file name="index.css" crc="203861724" ref="index"/>
+    <file name="nomq_index.css" crc="4220655561" ref="index"/>
+    <file name="inicio-no.css" crc="4115635177" ref="inicio-no"/>
+    <file name="nomq_inicio-no.css" crc="202600075" ref="inicio-no"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="museutils.js" crc="340535759" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="whatinput.js" crc="86476730" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="webpro.js" crc="4059564322" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="form_check.php" crc="4020933626" ref="inicio-no"/>
+    <file name="form_throttle.php" crc="4259590256" ref="inicio-no"/>
+    <file name="form_process.php" crc="37464564" ref="inicio-no"/>
+    <file name="form-u26229.php" crc="426830875" ref="inicio-no"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="require.js" crc="7928878" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="form-u89592.php" crc="72674456" ref="contactame"/>
+    <file name="form-u102705.php" crc="426830875" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="80119812" ref="inicio-no"/>
+    <file name="-31-nav_sprite.png" crc="13050776" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="index" alt="﷯"/>
+      <caption webpage="espectaculos" alt="﷯"/>
+      <caption webpage="espectaculos" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="inicio-no" alt="﷯"/>
+      <caption webpage="victor_mederos" alt="﷯"/>
+      <caption webpage="victor_mederos" alt="﷯"/>
+      <caption webpage="galeria" alt="﷯"/>
+      <caption webpage="galeria" alt="﷯"/>
+    </file>
+    <file name="arrow_sprite.svg" crc="251335336" ref="inicio-no:victor_mederos:espectaculos:galeria:index"/>
+    <file name="arrow_sprite_poster_u67188.png" crc="4152936757" ref="inicio-no:victor_mederos:espectaculos:galeria:index"/>
+    <file name="facebook-naranja.png" crc="4106740805" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="facebook-negro.png" crc="3861140814" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="twett-naranja.png" crc="161239314" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="twett-negro.png" crc="4248869413" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="instag-naranja.png" crc="3793862356" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="instag-negro.png" crc="431315160" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="linkedin-naranja.png" crc="190104950" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="linkedin-negro.png" crc="492739912" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="spoty-naranja.jpg" crc="3844792595" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="spoty-negro.png" crc="470104149" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="email-naranja.png" crc="4058351815" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="email-negro.png" crc="323592003" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ivoox-naranja.png" crc="432360225" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ivoox-negro.png" crc="468906711" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="youtube-naranja.png" crc="332203840" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="youtube-negro.png" crc="3908199923" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="logovictorm-degradado.png" crc="4283059718" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="-32-form_ico.png" crc="4215375968" ref="inicio-no:index">
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="index" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+      <caption webpage="inicio-no" alt="SEND"/>
+    </file>
+    <file name="-3-tooltip.svg" crc="3986879693" ref="inicio-no:index"/>
+    <file name="-3-tooltip_poster_u23520.png" crc="258590417" ref="inicio-no:index"/>
+    <file name="logo-mederos-bco.png" crc="4267238792" ref="inicio-no:victor_mederos:espectaculos:galeria:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos-efecto luz.jpg" crc="4234735942" ref="inicio-no">
+      <caption webpage="inicio-no" alt=""/>
+      <caption webpage="inicio-no" alt=""/>
+    </file>
+    <file name="mederos-efecto luz1536x831.jpg" crc="4223909638" ref="inicio-no">
+      <caption webpage="inicio-no" alt=""/>
+    </file>
+    <file name="mederos-efecto luz1100x595.jpg" crc="4279801781" ref="inicio-no">
+      <caption webpage="inicio-no" alt=""/>
+    </file>
+    <file name="mederos-efecto luz960x520.jpg" crc="3936990739" ref="inicio-no">
+      <caption webpage="inicio-no" alt=""/>
+    </file>
+    <file name="mederos-efecto luz720x390.jpg" crc="191249593" ref="inicio-no">
+      <caption webpage="inicio-no" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="inicio-no:victor_mederos:contactame:espectaculos:galeria:conciertos:videos:index"/>
+    <file name="foto-dirigiendobn-u456-fr.png" crc="3866594624" ref="victor_mederos"/>
+    <file name="facebook-bco-u52290-fr.png" crc="4095368837" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="facebook-naranja-u52290-r-fr.png" crc="3801136293" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo twitter x-u52332-fr.png" crc="166706024" ref="victor_mederos:videos"/>
+    <file name="twett-naranja-u52332-r-fr.png" crc="486754397" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="instagram-bco-u53430-fr.png" crc="346577620" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="instag-naranja-u53430-r-fr.png" crc="4242072378" ref="victor_mederos:espectaculos:conciertos:videos"/>
+    <file name="logo linkedin-u54349-fr.png" crc="4142589457" ref="victor_mederos"/>
+    <file name="linkedin-naranja-u54349-r-fr.png" crc="162976688" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo mail-u54389-fr.png" crc="517350635" ref="victor_mederos:videos"/>
+    <file name="email-naranja-u54389-r-fr.png" crc="181224767" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="spoty-bco-u54429-fr.png" crc="3997221374" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="spoty-naranja-u54429-r-fr.png" crc="179190393" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ivoox-bco-u76666-fr.png" crc="168921456" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ivoox-naranja-u76666-r-fr.png" crc="172928861" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="youtube-bco-u76621-fr.png" crc="3794050933" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="youtube-naranja-u76621-r-fr.png" crc="4267811938" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="-34-social-ico.svg" crc="4242418615" seo="true" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="-34-social-ico_poster_.png" crc="521423477" ref="victor_mederos"/>
+    <file name="ico_plus.svg" crc="4076105327" ref="victor_mederos"/>
+    <file name="ico_plus_poster_u67294.png" crc="4224836885" ref="victor_mederos"/>
+    <file name="ico_minus.svg" crc="3976555096" ref="victor_mederos"/>
+    <file name="ico_minus_poster_u67302.png" crc="3844344108" ref="victor_mederos"/>
+    <file name="ensayo30sept022.jpg" crc="4195932967" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="_fab2411-mejorado-nr-u62683-fr.jpg" crc="425538901" ref="victor_mederos"/>
+    <file name="ensayo20feb009-u62720-fr.jpg" crc="3973710459" ref="victor_mederos"/>
+    <file name="ensayo30sept024.jpg" crc="75866380" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="cnns botanico075.jpg" crc="3843156064" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="-36-club-dog.jpg" crc="387523488" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="fraternidad gral139.jpg" crc="3831717274" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="-7-composition_normal.svg" crc="4202002697" ref="victor_mederos"/>
+    <file name="-7-composition_normal_poster_u5161.png" crc="116768560" ref="victor_mederos"/>
+    <file name="-8-composition_active.svg" crc="4208592278" ref="victor_mederos"/>
+    <file name="-8-composition_active_poster_u5153.png" crc="262027518" ref="victor_mederos"/>
+    <file name="enpijamasretocadaweb.jpg" crc="3777794994" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="ico_arrow-up.svg" crc="336959494" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ico_arrow-up_poster_u67792.png" crc="398962685" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="foto-dirigiendobn-u456-fr2.png" crc="394884435" ref="victor_mederos"/>
+    <file name="logo twitter x-u52332-fr2.png" crc="3942320033" ref="victor_mederos:videos"/>
+    <file name="twett-naranja-u52332-r-fr2.png" crc="305155694" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ensayo30sept022-u556-fr.jpg" crc="3873048753" ref="victor_mederos"/>
+    <file name="_fab2411-mejorado-nr-u62683-fr2.jpg" crc="429748188" ref="victor_mederos"/>
+    <file name="ensayo20feb009-u62720-fr2.jpg" crc="435851831" ref="victor_mederos"/>
+    <file name="ensayo30sept024-u62757-fr.jpg" crc="3919567416" ref="victor_mederos"/>
+    <file name="cnns botanico075-u62794-fr.jpg" crc="3821229356" ref="victor_mederos"/>
+    <file name="-36-club-dog-u62831-fr.jpg" crc="306944252" ref="victor_mederos"/>
+    <file name="fraternidad gral139-u62655-fr.jpg" crc="385654279" ref="victor_mederos"/>
+    <file name="ensayo30sept022-u556-fr2.jpg" crc="4099458480" ref="victor_mederos"/>
+    <file name="foto-dirigiendobn-u456-fr3.png" crc="4159637274" ref="victor_mederos"/>
+    <file name="facebook-bco.png" crc="3822398213" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="facebook-naranja-u52290-r-fr2.png" crc="4081176486" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo twitter x.png" crc="4063858548" ref="victor_mederos:videos">
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="twett-naranja-u52332-r-fr3.png" crc="3822679185" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="instagram-bco.png" crc="3932342348" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="instag-naranja-u53430-r-fr2.png" crc="3787034853" ref="victor_mederos:espectaculos:conciertos:videos"/>
+    <file name="logo linkedin.png" crc="400553126" ref="victor_mederos">
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+    </file>
+    <file name="linkedin-naranja-u54349-r-fr2.png" crc="313232463" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo mail.png" crc="32258245" ref="victor_mederos:videos">
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="email-naranja-u54389-r-fr2.png" crc="132886396" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="spoty-bco.png" crc="4043784528" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="spoty-naranja.png" crc="37698136" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="ivoox-bco.png" crc="3951169250" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="ivoox-naranja-u76666-r-fr2.png" crc="381949622" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="youtube-bco.png" crc="58396974" ref="victor_mederos:espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="victor_mederos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="youtube-naranja-u76621-r-fr2.png" crc="226908813" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ensayo30sept022-u556-fr3.jpg" crc="4195506060" ref="victor_mederos"/>
+    <file name="_fab2411-mejorado-nr-u62683-fr3.jpg" crc="4180906544" ref="victor_mederos"/>
+    <file name="ensayo20feb009-u62720-fr3.jpg" crc="232107411" ref="victor_mederos"/>
+    <file name="ensayo30sept024-u62757-fr2.jpg" crc="4005441024" ref="victor_mederos"/>
+    <file name="cnns botanico075-u62794-fr2.jpg" crc="3898122680" ref="victor_mederos"/>
+    <file name="-36-club-dog-u62831-fr2.jpg" crc="176345200" ref="victor_mederos"/>
+    <file name="fraternidad gral139-u62655-fr2.jpg" crc="3840360607" ref="victor_mederos"/>
+    <file name="enpijamasretocadaweb-u2274-fr.jpg" crc="3893523984" ref="victor_mederos"/>
+    <file name="facebook-bco-u52290-fr2.png" crc="298242089" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="facebook-naranja-u52290-r-fr3.png" crc="4149982606" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo twitter x-u52332-fr3.png" crc="3976331856" ref="victor_mederos:videos"/>
+    <file name="twett-naranja-u52332-r-fr4.png" crc="82150231" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="instagram-bco-u53430-fr2.png" crc="243829299" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="instag-naranja-u53430-r-fr3.png" crc="3951690530" ref="victor_mederos:espectaculos:conciertos:videos"/>
+    <file name="logo linkedin-u54349-fr2.png" crc="353992657" ref="victor_mederos"/>
+    <file name="linkedin-naranja-u54349-r-fr3.png" crc="3775567649" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="logo mail-u54389-fr2.png" crc="3944355470" ref="victor_mederos:videos"/>
+    <file name="email-naranja-u54389-r-fr3.png" crc="194485149" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="spoty-bco-u54429-fr2.png" crc="384295666" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="spoty-naranja-u54429-r-fr2.png" crc="165202127" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ivoox-bco-u76666-fr2.png" crc="4020611435" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ivoox-naranja-u76666-r-fr3.png" crc="3904300347" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="youtube-bco-u76621-fr2.png" crc="3874866714" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="youtube-naranja-u76621-r-fr3.png" crc="123610886" ref="victor_mederos:espectaculos:galeria:conciertos:videos"/>
+    <file name="ensayo30sept022-u556-fr4.jpg" crc="445515789" ref="victor_mederos"/>
+    <file name="enpijamasretocadaweb-u2274-fr2.jpg" crc="4248308148" ref="victor_mederos"/>
+    <file name="foto-dirigiendobn-u456-fr4.png" crc="262504761" ref="victor_mederos"/>
+    <file name="ensayo30sept022-u556-fr5.jpg" crc="51791241" ref="victor_mederos"/>
+    <file name="enpijamasretocadaweb-u2274-fr3.jpg" crc="4204185870" ref="victor_mederos"/>
+    <file name="foto-dirigiendobn-u456-fr5.png" crc="341725149" ref="victor_mederos"/>
+    <file name="mederos1.jpg" crc="84223081" ref="contactame">
+      <caption webpage="contactame" alt=""/>
+      <caption webpage="contactame" alt=""/>
+      <caption webpage="contactame" alt=""/>
+      <caption webpage="contactame" alt=""/>
+      <caption webpage="contactame" alt=""/>
+      <caption webpage="contactame" alt=""/>
+    </file>
+    <file name="member-bg.jpg" crc="249405453" ref="contactame">
+      <caption webpage="contactame" alt=""/>
+    </file>
+    <file name="concierto minas063.jpg" crc="3970975740" ref="espectaculos">
+      <caption webpage="espectaculos" alt=""/>
+    </file>
+    <file name="x-bco-u81815-fr.png" crc="4256889838" ref="espectaculos:galeria"/>
+    <file name="linkedin-bco-u81818-fr.png" crc="429196316" ref="espectaculos:galeria:conciertos:videos"/>
+    <file name="mail-bco-u81808-fr.png" crc="232705751" ref="espectaculos:galeria:conciertos"/>
+    <file name="9d16d5ae-66e2-47ce-8bb6-537c90a7df41.jpg" crc="411966943" ref="espectaculos">
+      <caption webpage="espectaculos" alt=""/>
+    </file>
+    <file name="cnjs2web.jpg" crc="4058649470" ref="espectaculos">
+      <caption webpage="espectaculos" alt=""/>
+    </file>
+    <file name="mederos3.jpg" crc="413182650" ref="espectaculos">
+      <caption webpage="espectaculos" alt=""/>
+    </file>
+    <file name="x-bco-u81815-fr2.png" crc="172188397" ref="espectaculos:galeria"/>
+    <file name="cnjs2web-u64748-fr.jpg" crc="218711336" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr.jpg" crc="207917742" ref="espectaculos"/>
+    <file name="x-bco.png" crc="318262069" ref="espectaculos:galeria">
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="linkedin-bco.png" crc="4159124552" ref="espectaculos:galeria:conciertos:videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="mail-bco.png" crc="216679500" ref="espectaculos:galeria:conciertos">
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="espectaculos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="cnjs2web-u64748-fr2.jpg" crc="3989421957" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr2.jpg" crc="3866646285" ref="espectaculos"/>
+    <file name="cnjs2web-u64748-fr3.jpg" crc="209194904" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr3.jpg" crc="268740750" ref="espectaculos"/>
+    <file name="9d16d5ae-66e2-47ce-8bb6-537c90a7df41-u64850-fr.jpg" crc="473089413" ref="espectaculos"/>
+    <file name="cnjs2web-u64748-fr4.jpg" crc="3889711788" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr4.jpg" crc="42558003" ref="espectaculos"/>
+    <file name="concierto minas063-u69509-fr.jpg" crc="3997664231" ref="espectaculos"/>
+    <file name="x-bco-u81815-fr3.png" crc="449453786" ref="espectaculos:galeria"/>
+    <file name="linkedin-bco-u81818-fr2.png" crc="219721531" ref="espectaculos:galeria:conciertos:videos"/>
+    <file name="mail-bco-u81808-fr2.png" crc="407882346" ref="espectaculos:galeria:conciertos"/>
+    <file name="9d16d5ae-66e2-47ce-8bb6-537c90a7df41-u64850-fr2.jpg" crc="167984002" ref="espectaculos"/>
+    <file name="cnjs2web-u64748-fr5.jpg" crc="4030738509" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr5.jpg" crc="4107713322" ref="espectaculos"/>
+    <file name="9d16d5ae-66e2-47ce-8bb6-537c90a7df41-u64850-fr3.jpg" crc="4228466406" ref="espectaculos"/>
+    <file name="cnjs2web-u64748-fr6.jpg" crc="3881752542" ref="espectaculos"/>
+    <file name="mederos3-u65138-fr6.jpg" crc="389499918" ref="espectaculos"/>
+    <file name="navidad tata041.jpg" crc="175966751" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs2.jpg" crc="3971623674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web.jpg" crc="94441826" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009.jpg" crc="4245909654" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ensayo21oct047.jpg" crc="4088363230" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr.jpg" crc="4239576048" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab3092-mejorado-nr.jpg" crc="487988267" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="navidad tata041784x627.jpg" crc="4234912862" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4232-mejorado-nr.jpg" crc="4106343965" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4261-mejorado-nr.jpg" crc="3860224278" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5036-mejorado-nr.jpg" crc="3811126294" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr.jpg" crc="3975287023" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dnt105-mejorado-nr.jpg" crc="4168153508" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fraternidad gral133.jpg" crc="4241515987" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4193-mejorado-nr.jpg" crc="3775775405" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2411-mejorado-nr.jpg" crc="55458010" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="victor mederos alta.jpg" crc="308452715" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto059.jpg" crc="516007512" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053.jpg" crc="3875112005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2.jpg" crc="495783103" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6.jpg" crc="428478278" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos4.jpg" crc="196636460" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fiesta079.jpg" crc="459943582" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="funcionboleros079.jpg" crc="135469666" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="vic.jpg" crc="357100330" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5091-mejorado-nr.jpg" crc="298658486" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5035-mejorado-nr.jpg" crc="43781990" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4193-mejorado-nr2.jpg" crc="494241975" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab3259-mejorado-nr.jpg" crc="243851032" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="first.svg" crc="4214889106" ref="galeria"/>
+    <file name="first_poster_u72225.png" crc="154968947" ref="galeria"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="galeria"/>
+    <file name="left-arrow_poster_u72210.png" crc="4189366824" ref="galeria"/>
+    <file name="right-arrow.svg" crc="415473593" ref="galeria"/>
+    <file name="right-arrow_poster_u72212.png" crc="3934377674" ref="galeria"/>
+    <file name="last.svg" crc="3807741576" ref="galeria"/>
+    <file name="last_poster_u72201.png" crc="412417395" ref="galeria"/>
+    <file name="cnjs2424x339.jpg" crc="4061215137" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web-crop-u73616.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u73691.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ensayo21oct047424x339.jpg" crc="186654410" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u73841.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab3092-mejorado-nr382x382.jpg" crc="4014952481" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="navidad tata041424x339.jpg" crc="4255183748" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4232-mejorado-nr424x339.jpg" crc="3814600913" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4261-mejorado-nr424x339.jpg" crc="3783903906" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5036-mejorado-nr424x339.jpg" crc="4054174966" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u74350.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dnt105-mejorado-nr424x339.jpg" crc="3871351087" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fraternidad gral133424x339.jpg" crc="332360071" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4193-mejorado-nr424x339.jpg" crc="3771701303" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2411-mejorado-nr424x339.jpg" crc="358968134" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="victor mederos alta424x339.jpg" crc="334601274" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto059424x339.jpg" crc="315050834" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u74913.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u75009.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u75089.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos4424x339.jpg" crc="3876885316" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fiesta079424x339.jpg" crc="3900597074" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="funcionboleros079424x339.jpg" crc="4064579824" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="vic424x339.jpg" crc="4087060601" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5091-mejorado-nr424x339.jpg" crc="3901523868" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab5035-mejorado-nr424x339.jpg" crc="405826255" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab4193-mejorado-nr424x3392.jpg" crc="198418494" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab3259-mejorado-nr424x339.jpg" crc="80267927" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+    <file name="cnjs5web-crop-u736162.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736912.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738412.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743502.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749132.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750092.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750892.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web-crop-u736163.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736913.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738413.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743503.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749133.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750093.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750893.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web-crop-u736164.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736914.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738414.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743504.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749134.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750094.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750894.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web-crop-u736165.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736915.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738415.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743505.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749135.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750095.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750895.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="navidad tata041-u70284-fr.jpg" crc="264919150" ref="galeria"/>
+    <file name="cnjs5web-crop-u736166.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736916.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738416.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743506.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749136.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750096.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750896.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cnjs5web-crop-u736167.jpg" crc="132164709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="via jazz009-crop-u736917.jpg" crc="4217396075" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab2219-mejorado-nr-crop-u738417.jpg" crc="3905515782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_fab8938-mejorado-nr-crop-u743507.jpg" crc="3778228630" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pruebasonido fatto053-crop-u749137.jpg" crc="479859058" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos2-crop-u750097.jpg" crc="4260276950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mederos6-crop-u750897.jpg" crc="402525637" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fiesta056.jpg" crc="4230923275" ref="conciertos">
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="twett-bco-u82197-fr.png" crc="4256889838" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr.jpg" crc="361349737" ref="conciertos">
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="ensayo5feb037.jpg" crc="4086688331" ref="conciertos">
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="ensayo20feb009.jpg" crc="22529106" ref="conciertos">
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="twett-bco-u82197-fr2.png" crc="172188397" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr-u76393-fr.jpg" crc="4163750147" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr.jpg" crc="3969008706" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr.jpg" crc="377647083" ref="conciertos"/>
+    <file name="twett-bco.png" crc="318262069" ref="conciertos">
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+      <caption webpage="conciertos" alt=""/>
+    </file>
+    <file name="_fab2955-mejorado-nr-u76393-fr2.jpg" crc="4031966509" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr2.jpg" crc="4142237171" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr2.jpg" crc="265216498" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr-u76393-fr3.jpg" crc="206803442" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr3.jpg" crc="278176027" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr3.jpg" crc="475033952" ref="conciertos"/>
+    <file name="fiesta056-u76411-fr.jpg" crc="303775884" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr-u76393-fr4.jpg" crc="348714248" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr4.jpg" crc="494488373" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr4.jpg" crc="4110812506" ref="conciertos"/>
+    <file name="fiesta056-u76411-fr2.jpg" crc="203269676" ref="conciertos"/>
+    <file name="twett-bco-u82197-fr3.png" crc="449453786" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr-u76393-fr5.jpg" crc="28698865" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr5.jpg" crc="59005626" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr5.jpg" crc="3892231394" ref="conciertos"/>
+    <file name="_fab2955-mejorado-nr-u76393-fr6.jpg" crc="10423243" ref="conciertos"/>
+    <file name="ensayo5feb037-u76401-fr6.jpg" crc="174872585" ref="conciertos"/>
+    <file name="ensayo20feb009-u76396-fr6.jpg" crc="4218863343" ref="conciertos"/>
+    <file name="_fab8849.jpg" crc="3803803980" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="_fab8849-u79085-fr.jpg" crc="502748416" ref="videos"/>
+    <file name="mederos-efecto luz2.jpg" crc="3960006882" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mederos-efecto luz-u102890-fr.jpg" crc="4179110212" ref="index"/>
+    <file name="mederos-efecto luz-u102890-fr2.jpg" crc="417827721" ref="index"/>
+    <file name="mederos-efecto luz-u102890-fr3.jpg" crc="168255398" ref="index"/>
+    <file name="mederos-tablet-u102905-fr.jpg" crc="4219108654" ref="index"/>
+    <file name="mederos-efecto luz-u102890-fr4.jpg" crc="56678194" ref="index"/>
+    <file name="mederos-tablet-u102905-fr2.jpg" crc="4024647849" ref="index"/>
+    <file name="mederos-celulares-efecto luz-u102934-fr.jpg" crc="4149564017" ref="index"/>
+    <file name="mederos-efecto luz-u102890-fr5.jpg" crc="440226084" ref="index"/>
+    <file name="mederos-tablet-u102905-fr3.jpg" crc="211906892" ref="index"/>
+    <file name="mederos-celulares-efecto luz-u102934-fr2.jpg" crc="394399714" ref="index"/>
+    <file name="mederos-celulares-efecto luz-u102934-fr3.jpg" crc="70597153" ref="index"/>
+    <file name="mederos-iphone2-u102963-fr.jpg" crc="3811379250" ref="index"/>
+    <file name="mederos-iphone2-u102963-fr2.jpg" crc="4210043056" ref="index"/>
+    <file name="mederos-iphone2-u102963-fr3.jpg" crc="3803773144" ref="index"/>
+  </folder>
+  <file name="inicio-no.html" crc="3991746520" seo="true" mt="1749566437746" redirect="true"/>
+  <file name="victor_mederos.html" crc="4267781305" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="contactame.html" crc="524042343" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="espectaculos.html" crc="3823508001" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="galeria.html" crc="159843623" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="conciertos.html" crc="3940519115" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="videos.html" crc="206202389" seo="true" mt="1749566437339" redirect="true"/>
+  <file name="index.html" crc="180062159" seo="true" mt="1749566437766" redirect="true"/>
+</manifest>
